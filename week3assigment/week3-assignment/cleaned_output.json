@@ -1,0 +1,65 @@
+[
+  {
+    "title":"Web Development in 2025",
+    "content":"Modern web development relies on frameworks like React and Vue. Full-stack developers need to understand both frontend and backend technologies, including APIs, databases, and deployment pipelines for production applications.",
+    "url":"https:\/\/example.com\/web-dev",
+    "published":"2025-02-20T14:30:00Z",
+    "category":"Technology",
+    "author":"Jane Smith",
+    "published_date":"2025-02-20T14:30:00Z"
+  },
+  {
+    "title":"Data Science Best Practices",
+    "content":"Data science teams should follow reproducible workflows, version their code and data, and document their experiments. This ensures that analyses can be replicated and extended by others in the organization.",
+    "url":"https:\/\/example.com\/data-science",
+    "published":"2025-04-10T09:00:00Z",
+    "category":"Technology",
+    "author":"Alice Johnson",
+    "published_date":"2025-04-10T09:00:00Z"
+  },
+  {
+    "title":"Cybersecurity in 2025",
+    "content":"Organizations must prioritize zero-trust architectures, regular penetration testing, and employee security training. Ransomware and phishing remain significant threats that require layered defenses.",
+    "url":"https:\/\/example.com\/cyber",
+    "published":"May 5, 2025",
+    "category":"Technology",
+    "author":"Bob Wilson",
+    "published_date":"2025-05-05T00:00:00Z"
+  },
+  {
+    "title":"Python > Other Languages?",
+    "content":"Python remains popular for data science, automation, and web development. Its readability and ecosystem make it a strong choice for many projects, though the best tool always depends on the problem.",
+    "url":"http:\/\/example.com\/python",
+    "published":"July 1st, 2025",
+    "category":"Technology",
+    "author":"Carol Dev",
+    "published_date":"2025-07-01T00:00:00Z"
+  },
+  {
+    "title":"Remote Work Culture",
+    "content":"Remote and hybrid work require clear communication norms, async-friendly processes, and intentional team building. Companies that invest in these areas see better retention and productivity.",
+    "url":"https:\/\/example.com\/remote",
+    "published":"2025-07-20T12:00:00Z",
+    "category":"Business",
+    "author":"Diana Ross",
+    "published_date":"2025-07-20T12:00:00Z"
+  },
+  {
+    "title":"DevOps & CI\/CD",
+    "content":"Continuous integration and continuous deployment reduce manual errors and speed up releases. Teams use tools like Jenkins, GitHub Actions, and GitLab CI to automate builds, tests, and deployments.",
+    "url":"https:\/\/example.com\/devops",
+    "published":"2025-09-01T08:00:00Z",
+    "category":"Technology",
+    "author":"Eve Ops",
+    "published_date":"2025-09-01T08:00:00Z"
+  },
+  {
+    "title":"Ethics in AI",
+    "content":"Artificial intelligence raises important questions about fairness, transparency, and accountability. Policymakers and practitioners need to work together to ensure AI systems are designed and used responsibly.",
+    "url":"https:\/\/example.com\/ethics-ai",
+    "published":"Sept 15, 2025",
+    "category":"Technology",
+    "author":"Frank Ethics",
+    "published_date":"2025-09-15T00:00:00Z"
+  }
+]
